@@ -1,0 +1,9 @@
+1. Decide the Pizza Store
+2. What type of Pizza you want
+3. Call the Pizza Place
+4. Order the Pizza
+     4a Pay over phone
+     5b Pay at door
+5. Wait for delivery
+6. Greet driver
+7. See step 4b if necesssary
