@@ -7,3 +7,5 @@
 5. Wait for delivery
 6. Greet driver
 7. See step 4b if necesssary
+8. Enjoy
+9. Get full
